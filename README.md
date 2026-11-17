@@ -13,7 +13,6 @@ The system provides a FastAPI backend and a simple frontend with request tracing
 ---
 
 
-
 # Problem Statement
 
 The StackLab scenario describes an AI customer-support application:
