@@ -11,8 +11,6 @@ The main idea is simple:
 The system provides a FastAPI backend and a simple frontend with request tracing, logging, processing-time measurement, error handling, rate limiting, health checks, and application metrics.
 
 ---
-
-
 # Problem Statement
 
 The StackLab scenario describes an AI customer-support application:
